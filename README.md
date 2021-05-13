@@ -8,7 +8,7 @@ A News App using [API from newsapi.org](newsapi.org) and using Bloc.
 
 <br>
 <p align="center">
-    <img src="Screenshots/Spinkit.jpeg" width="30%"></img> =><img src="Screenshots/feed.jpeg" width="30%"></img>=> <img src="Screenshots/article1.jpeg" width="30%"></img> 
+    <img src="Screenshots/spinkit.jpeg" width="30%"></img> =><img src="Screenshots/feed.jpeg" width="30%"></img>=> <img src="Screenshots/article1.jpeg" width="30%"></img> 
     <img src="Screenshots/article2.jpeg" width="160"></img> 
 
     
